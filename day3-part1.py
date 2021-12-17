@@ -19,7 +19,7 @@ for i in range(len(m[0][0]), 0, -1):
     else:
         eps_val = 0
     power = len(m[0][0]) - i
-    gamma = gamma + gam_val * 2**power
-    epsilon = epsilon + eps_val * 2**power
+    gamma += gam_val * 2**power
+    epsilon += eps_val * 2**power
 
 print (gamma * epsilon)

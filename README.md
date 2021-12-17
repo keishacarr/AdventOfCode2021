@@ -9,4 +9,4 @@ Day 1 (12/16) - Completed both part 1 and part 2. I used an online converter to 
 
 Day 2 (12/16) - Part 1 meant relearning how to read a text file input, since there was not a simple online converter I could use. Part 2 was pretty easy, just slightly confusing about the actual instructions.
 
-Day 3 (12/17) - Refamiliarized myself with numpy for the arrays.
+Day 3 (12/17) - Refamiliarized myself with using numpy for the arrays. I really struggled with how to navigate a 2d array in Python; the indexing was not efficient.
