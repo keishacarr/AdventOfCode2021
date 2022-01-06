@@ -35,13 +35,28 @@ def check_winner(board):
     return winner
 
 
-def part1():
+def part2():
     boards = allBoards
+    allNums = numbers
+    winnerFound = False
 
-    for number in numbers:
+    while not winnerFound:
+        number = allNums[0]
+        allNums = allNums[1:]
+
         for board in boards:
             mark_board(number, board)
-            if check_winner(board):
-                return sum_board(board) * number
 
-print("Answer to part 1: ", part1())
+        index = 0
+        while index < len(boards):
+            if check_winner(boards[index]):
+                if len(boards) > 1:
+                    boards.pop(index)
+                else:
+                    winnerFound = True
+                    return sum_board(boards[index]) * number
+            else:
+                index += 1
+            
+
+print("Answer to part 2: ", part2())

@@ -12,3 +12,5 @@ Day 2 (12/16) - Part 1 meant relearning how to read a text file input, since the
 Day 3 (12/17) - Refamiliarized myself with using numpy for the arrays. I really struggled with how to navigate a 2d array in Python; my indexing approach was not efficient.
 
 Day 4 (12/17) - Incorporated functions and objects/classes.
+
+Day 4 (1/6) - after taking a break, restarted Day 4. Used Jeffery Frederic's YouTube video for understanding since my initial approach was becoming too complex for me to get through. Interesting to see a triple list comprehension.
