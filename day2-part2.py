@@ -3,7 +3,7 @@ for line in open('day2-input.txt'):
     item = line.rstrip('\n').split(' ')
     item[1] = int(item[1])
     input.append(item)
-location = [0, 0, 0] # [horizational, depth, aim]
+location = [0, 0, 0] # [horizontal, depth, aim]
 
 for i in range(0, len(input)):
     if input[i][0] == "forward":

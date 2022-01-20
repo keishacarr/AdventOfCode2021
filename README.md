@@ -13,4 +13,8 @@ Day 3 (12/17) - Refamiliarized myself with using numpy for the arrays. I really 
 
 Day 4 (12/17) - Incorporated functions and objects/classes.
 
-Day 4 (1/6) - after taking a break, restarted Day 4. Used Jeffery Frederic's YouTube video for understanding since my initial approach was becoming too complex for me to get through. Interesting to see a triple list comprehension.
+Day 4 (1/6) - After taking a break, restarted Day 4. Used Jeffery Frederic's YouTube video for understanding since my initial approach was becoming too complex for me to get through. Interesting to see a triple list comprehension.
+
+Day 5 (1/20) - followed Jeffrey Frederic's YouTube video for this as well. I initially struggled with understanding even the basic example, so this tutorial was very necessary.
+
+Day 6 (1/20) - able to do part 1 by myself pretty easily. Currently stuck on part 2.
