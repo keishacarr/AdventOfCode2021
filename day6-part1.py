@@ -3,7 +3,7 @@ with open ('day6-input.txt') as fin:
 
 allFish = [int(fish) for fish in data]
 
-for day in range(0, 256):
+for day in range(0, 80):
     for i in range(0, len(allFish)):
         if allFish[i] == 0:
             allFish[i] = 6

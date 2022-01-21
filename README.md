@@ -17,4 +17,6 @@ Day 4 (1/6) - After taking a break, restarted Day 4. Used Jeffery Frederic's You
 
 Day 5 (1/20) - followed Jeffrey Frederic's YouTube video for this as well. I initially struggled with understanding even the basic example, so this tutorial was very necessary.
 
-Day 6 (1/20) - able to do part 1 by myself pretty easily. Currently stuck on part 2.
+Day 6 (1/20) - able to do part 1 by myself pretty easily. The exponential increase for part 2 is tricky to navigate.
+
+Day 7 (1/21) - started part 1.
