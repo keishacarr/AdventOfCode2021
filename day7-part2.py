@@ -8,7 +8,8 @@ sums = []
 for i in range (start, end):
     sum = 0
     for elem in data:
-        sum += abs (i-elem)
+        diff = abs (i-elem)
+        sum += diff * (diff+1) / 2
     sums.append(sum)
 
 val, idx = min((val, idx) for (idx, val) in enumerate(sums))
