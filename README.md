@@ -20,3 +20,7 @@ Day 5 (1/20) - followed Jeffrey Frederic's YouTube video for this as well. I ini
 Day 6 (1/20) - able to do part 1 by myself pretty easily. The exponential increase for part 2 is tricky to navigate.
 
 Day 7 (1/21) - started part 1.
+
+Day 7 (1/22) - Completed both parts independently. Used a mathematical formula to complete part 2, so there was very little change in the code between the parts.
+
+Day 8 (1/22) - Started part 1.
